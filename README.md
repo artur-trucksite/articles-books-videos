@@ -11,3 +11,6 @@
 
 ## Hiring/Recruiting/Interviews
  * [Why is hiring broken? It starts at the whiteboard.](https://www.freecodecamp.org/news/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db/)
+
+## Java
+ * [Why Java Is Perfectly Alive](https://betterprogramming.pub/why-java-is-perfectly-alive-e3f25a576f95)
