@@ -9,5 +9,5 @@
  * [Reducing flaky builds by 18x](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)
  * [The Challenges of End-to-End Testing of Microservices](https://www.infoq.com/news/2020/12/end-to-end-testing-microservices/)
 
-## Hiring/Rectuiting/Interviews
+## Hiring/Recruiting/Interviews
  * [Why is hiring broken? It starts at the whiteboard.](https://www.freecodecamp.org/news/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db/)
