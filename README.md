@@ -6,6 +6,7 @@
  * [QA](#qa)
  * [Hiring/Recruiting/Interviews](#Hiring/Recruiting/Interviewst)
  * [Java](#java)
+ * [Health](#Health)
 
 ## Nginx
  * [Common Nginx misconfigurations that leave your web server open to attack](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
@@ -21,3 +22,6 @@
 
 ## Java
  * [Why Java Is Perfectly Alive](https://betterprogramming.pub/why-java-is-perfectly-alive-e3f25a576f95)
+
+## Health
+ * [The Best Fat Loss Article on the Internet](https://physiqonomics.com/fat-loss/)
