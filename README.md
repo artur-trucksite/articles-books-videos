@@ -29,7 +29,7 @@
 
 ## Health
  * [The Best Fat Loss Article on the Internet](https://physiqonomics.com/fat-loss/)
- * [Iron Spine](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905) [RU](https://habr.com/ru/post/544916/)
+ * [Iron Spine](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905) [[RU]](https://habr.com/ru/post/544916/)
 
 ## PM
  * [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
