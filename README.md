@@ -33,3 +33,8 @@
 
 ## PM
  * [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
+
+
+
+
+https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
