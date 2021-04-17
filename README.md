@@ -34,7 +34,7 @@
 ## PM
  * [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
 
+## Security
+* [Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
 
 
-
-https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
