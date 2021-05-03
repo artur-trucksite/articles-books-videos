@@ -19,6 +19,7 @@
  * [Selenium Grid 4](https://applitools.com/blog/selenium-grid-4/)
  * [Selenium Grid 4: Do you really need it?](https://aandryashin.medium.com/selenium-grid-4-do-you-really-need-it-ab03366625b0)
  * [6 rules for high-quality page object patterns](https://techbeacon.com/app-dev-testing/6-rules-high-quality-page-object-patterns)
+ * [Revolution or Evolution of Page Object Model?](https://medium.com/@artsokovets/revolution-or-evolution-of-page-object-model-81b02a8589c2)
 
 ## Hiring/Recruiting/Interviews
  * [Why is hiring broken? It starts at the whiteboard.](https://www.freecodecamp.org/news/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db/)
