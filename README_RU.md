@@ -2,6 +2,7 @@
 
 ## Selenium
  * [Запуск тестов Selenium в Jenkins](https://habr.com/ru/company/ruvds/blog/554278/)
+ * [Как сделать базовый тест-класс для Selenium тестов и выполнить инициализацию через JUnit RuleChain](https://habr.com/ru/company/lanit/blog/480910/)
 
 ## QA
  * [Screenplay — не Page Object'ом единым](https://habr.com/ru/company/arcadia/blog/434122/)
