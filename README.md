@@ -5,6 +5,7 @@
 
 ## QA
  * [Distributed Load Testing on AWS](https://aws.amazon.com/solutions/implementations/distributed-load-testing-on-aws/)
+ * [Load testing is hard, and the tools are... not great. But why?](https://ntietz.com/tech-blog/load-testing-is-hard-but-why/)
  * [Reducing flaky builds by 18x](https://github.blog/2020-12-16-reducing-flaky-builds-by-18x/)
  * [The Challenges of End-to-End Testing of Microservices](https://www.infoq.com/news/2020/12/end-to-end-testing-microservices/)
  * [Web Performance Testing with Google Lighthouse](https://www.mariedrake.com/post/web-performance-testing-with-google-lighthouse)
