@@ -30,10 +30,21 @@
 
 ## Health
  * [The Best Fat Loss Article on the Internet](https://physiqonomics.com/fat-loss/)
- * [Iron Spine](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905) [[EN]](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905) [[RU]](https://habr.com/ru/post/544916/)
+ * [Iron Spine](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905)
 
 ## PM
  * [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
+ * [Changes at Basecamp](https://world.hey.com/jason/changes-at-basecamp-7f32afc5)
 
 ## Security
 * [Deep dive in CORS: History, how it works, and best practices](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
+
+## UML
+* [Has UML died without anyone noticing?](https://garba.org/posts/2021/uml/)
+
+## HTML/CSS
+* [My current HTML boilerplate](https://www.matuzo.at/blog/html-boilerplate/)
+
+## Other
+* [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+* [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
