@@ -32,6 +32,7 @@
 ## Health
  * [The Best Fat Loss Article on the Internet](https://physiqonomics.com/fat-loss/)
  * [Iron Spine](https://archive.org/details/Convict.Conditioning.Vol4.Iron.Spine_201905)
+ * [How to overcome Phone Addiction [Solutions + Research]](https://cognitiontoday.com/phone-addiction-coping-solutions-research-statistics/)
 
 ## PM
  * [Better Architecture Diagrams for Agile Teams: actionable tips and lessons](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
@@ -49,3 +50,5 @@
 ## Other
 * [FFmpeg cheat sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 * [Use Google like a pro](https://markodenic.com/use-google-like-a-pro/)
+* [SaaS we happily pay for](https://francescodilorenzo.com/saas-we-pay-for)
+* [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
