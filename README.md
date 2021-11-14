@@ -23,6 +23,7 @@
 
 ## Hiring/Recruiting/Interviews
  * [Why is hiring broken? It starts at the whiteboard.](https://www.freecodecamp.org/news/why-is-hiring-broken-it-starts-at-the-whiteboard-34b088e5a5db/)
+ * [Experienced Developers Ask These 3 Job-Related Questions](https://medium.com/codex/experienced-developers-ask-these-3-job-related-questions-8ca29018c920)
 
 ## Java
  * [Why Java Is Perfectly Alive](https://betterprogramming.pub/why-java-is-perfectly-alive-e3f25a576f95)
